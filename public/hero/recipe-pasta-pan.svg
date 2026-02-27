@@ -1,0 +1,18 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#FAE4C6"/>
+  <circle cx="1320" cy="170" r="190" fill="#F5B15D"/>
+  <circle cx="220" cy="770" r="250" fill="#D9792B"/>
+  <ellipse cx="820" cy="520" rx="390" ry="245" fill="#2F3740"/>
+  <ellipse cx="820" cy="525" rx="330" ry="195" fill="#E07A2F"/>
+  <path d="M620 500C700 450 940 450 1020 510" stroke="#F5D08A" stroke-width="22" stroke-linecap="round"/>
+  <path d="M610 550C700 500 940 500 1030 560" stroke="#F5D08A" stroke-width="22" stroke-linecap="round"/>
+  <path d="M640 600C730 560 900 560 990 620" stroke="#F5D08A" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="700" cy="470" r="18" fill="#7CB342"/>
+  <circle cx="890" cy="455" r="16" fill="#7CB342"/>
+  <circle cx="960" cy="540" r="16" fill="#7CB342"/>
+  <circle cx="740" cy="590" r="16" fill="#7CB342"/>
+  <circle cx="830" cy="615" r="16" fill="#7CB342"/>
+  <rect x="1140" y="490" width="300" height="54" rx="27" fill="#2F3740"/>
+  <text x="120" y="170" fill="#943A11" font-family="Verdana, sans-serif" font-size="74" font-weight="700">Rustic Pasta Skillet</text>
+  <text x="120" y="235" fill="#7A5532" font-family="Verdana, sans-serif" font-size="36">Golden sauce, herbs, and comforting heat</text>
+</svg>

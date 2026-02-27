@@ -1,0 +1,20 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#FBECD3"/>
+  <circle cx="1300" cy="140" r="190" fill="#FFC965"/>
+  <circle cx="250" cy="750" r="220" fill="#A7CF6A"/>
+  <rect x="430" y="300" width="740" height="420" rx="34" fill="#C98A4F"/>
+  <rect x="470" y="340" width="660" height="340" rx="24" fill="#E6B071"/>
+  <ellipse cx="620" cy="470" rx="120" ry="90" fill="#FFF4DE"/>
+  <circle cx="620" cy="470" r="38" fill="#F2B032"/>
+  <ellipse cx="930" cy="460" rx="130" ry="100" fill="#FFF4DE"/>
+  <ellipse cx="900" cy="450" rx="48" ry="34" fill="#E8683E"/>
+  <ellipse cx="965" cy="495" rx="46" ry="32" fill="#E8683E"/>
+  <rect x="540" y="580" width="200" height="52" rx="20" fill="#8DBF57"/>
+  <rect x="850" y="580" width="230" height="52" rx="20" fill="#D4712D"/>
+  <circle cx="790" cy="560" r="22" fill="#79A84F"/>
+  <circle cx="740" cy="560" r="18" fill="#79A84F"/>
+  <circle cx="1040" cy="560" r="18" fill="#CF5E2B"/>
+  <circle cx="990" cy="560" r="20" fill="#CF5E2B"/>
+  <text x="120" y="170" fill="#8F3F13" font-family="Verdana, sans-serif" font-size="74" font-weight="700">Sunny Breakfast Board</text>
+  <text x="120" y="235" fill="#765A30" font-family="Verdana, sans-serif" font-size="36">Fresh starts with eggs, greens, and fruit</text>
+</svg>

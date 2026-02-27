@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 35 38% 98%;
+  --foreground: 210 20% 18%;
+  --card: 0 0% 100%;
+  --card-foreground: 210 20% 18%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 210 20% 18%;
+  --primary: 22 78% 42%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 42 78% 92%;
+  --secondary-foreground: 28 45% 18%;
+  --muted: 210 15% 94%;
+  --muted-foreground: 210 10% 40%;
+  --accent: 32 85% 91%;
+  --accent-foreground: 24 45% 22%;
+  --destructive: 0 80% 52%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 210 16% 88%;
+  --input: 210 16% 88%;
+  --ring: 22 78% 42%;
+  --radius: 0.75rem;
+}
+
+.dark {
+  --background: 220 20% 10%;
+  --foreground: 0 0% 96%;
+  --card: 220 18% 13%;
+  --card-foreground: 0 0% 96%;
+  --popover: 220 18% 13%;
+  --popover-foreground: 0 0% 96%;
+  --primary: 22 72% 52%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 220 14% 18%;
+  --secondary-foreground: 0 0% 96%;
+  --muted: 220 14% 18%;
+  --muted-foreground: 215 20% 70%;
+  --accent: 220 12% 20%;
+  --accent-foreground: 0 0% 96%;
+  --destructive: 0 70% 45%;
+  --destructive-foreground: 0 0% 96%;
+  --border: 220 13% 22%;
+  --input: 220 13% 22%;
+  --ring: 22 72% 52%;
+}
+
+body {
+  background: hsl(var(--background));
+  color: hsl(var(--foreground));
+  min-height: 100vh;
+  font-family: var(--font-body), ui-serif, Georgia, serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading), ui-sans-serif, system-ui, sans-serif;
+}
+
+.app-grid {
+  background-image: radial-gradient(circle at top right, rgba(191, 85, 24, 0.14), transparent 40%),
+    radial-gradient(circle at bottom left, rgba(247, 188, 62, 0.1), transparent 42%);
+}
+
+.home-kitchen {
+  --primary: 22 78% 42%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 92 28% 86%;
+  --secondary-foreground: 100 34% 20%;
+  --accent: 42 90% 88%;
+  --accent-foreground: 26 52% 20%;
+  --ring: 22 78% 42%;
+}
